@@ -6,4 +6,5 @@ gitGraph
     commit
     branch branch2
     commit
+    commit
 ```
