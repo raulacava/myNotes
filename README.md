@@ -1,8 +1,7 @@
 # README
 
 ```mermaid
+%%{init:{'gitGraph':{'showCommitLabel':false}}}%%
 gitGraph
-    commit
-    commit
     commit
 ```
