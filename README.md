@@ -8,4 +8,8 @@ gitGraph
     commit
     checkout main
     commit
+    branch branch3
+    commit
+    checkout main
+    commit
 ```
